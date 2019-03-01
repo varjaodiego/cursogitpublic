@@ -2,8 +2,9 @@ Big Picture by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-
 This is Big Picture, a simple, single page responsive site template by HTML5 UP.
+
+qualquer coisa que fizer aqui so para ver a mudança na hora do push
 
 So I've been on a single page kick as of late, partly because I'm lazy, but
 mostly because they kick ass for experimentation. In this case, Big Picture
@@ -17,6 +18,7 @@ and thoroughly commented code for your editing pleasure (with instructions!
 Many thanks to my good friends Felicia Simion (ineedchemicalx.deviantart.com)
 and Michael Domaradzki (md.photomerchant.net) for allowing me to use their amazing
 photos in Big Picture's demo*.
+
 
 (* = Not included! Only meant for use with my own on-site demo, so please do NOT
 download and/or use any of Felicia's or Michael's work without their explicit
